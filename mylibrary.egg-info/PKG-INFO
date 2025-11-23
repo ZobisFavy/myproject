@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: mylibrary
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/ZobisFavy/mylibrary
+Author: Okafor Favour
+Author-email: zoba.nuela@gmail.com
+License: MIT
+Requires-Dist: numpy
+
+
+    # mypackage
+    This library was created as an example of how to publish your own Python Package
+
+
+# How to install 
+.......
